@@ -1,0 +1,17 @@
+["params.author"]
+name = "easyonez"
+email = "aala@ajmai.me"
+headline = "dev & ctf player <br> cs student @ u-bordeaux | erasmus+ @ unipd"
+bio = "a person"
+
+  [["params.author".links]]
+  email = "mailto:aala@ajmai.me"
+
+  [["params.author".links]]
+  discord = "https://discord.com/users/1075544459225342032"
+
+  [["params.author".links]]
+  github = "https://github.com/easyonez"
+
+  [["params.author".links]]
+  linkedin = "https://linkedin.com/in/ajmaime"
